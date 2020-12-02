@@ -1,0 +1,19 @@
+h1 {
+    background-color: pink;
+    color: purple;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: palevioletred;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: plum;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
